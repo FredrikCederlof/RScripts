@@ -1,3 +1,7 @@
+# Created by Fredrik Cederlöf, 9th of dec 2018
+# LinkedIn https://www.linkedin.com/in/fredrikcederlof/
+# Medium - https://medium.com/@fredrikcederlof/
+
 library(tidyverse)
 library(rvest)
 library(stringr)
