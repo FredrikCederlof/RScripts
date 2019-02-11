@@ -1,5 +1,4 @@
 # Blog post - https://towardsdatascience.com/spotify-app-review-mining-with-r-google-cloud-machine-learning-feb6f9c3b75f?source=your_stories_page
-
 # Github - https://github.com/amrrs/itunesr
 
 # Install following packages
