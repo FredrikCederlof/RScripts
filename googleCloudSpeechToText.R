@@ -1,7 +1,7 @@
 # Fredrik Cederlöf, Head of CX & Analytics Collector Bank
 # https://www.linkedin.com/in/fredrikcederlof/
 
-Google Cloud Speech to Text API
+# Google Cloud Speech to Text API
 # https://github.com/ropensci/googleLanguageR
 
 library(googleLanguageR)
